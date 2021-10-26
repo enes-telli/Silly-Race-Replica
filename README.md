@@ -1,4 +1,7 @@
 # Silly Race Replica
+It is a project where a copy of the hyper-casual style game called Silly Race is prepared individually. The aim of the game is to avoid obstacles on the platform and reach the finish line before artificial intelligence.
+
+## Screenshots
 
 <img src="https://user-images.githubusercontent.com/55920002/114303501-15d72700-9ad7-11eb-9a32-582c08c19d52.png"/>
 <img src="https://user-images.githubusercontent.com/55920002/114303509-1a9bdb00-9ad7-11eb-8b5b-2cf1f7a5d29f.png"/>
